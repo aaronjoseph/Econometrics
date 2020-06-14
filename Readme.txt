@@ -1,0 +1,1 @@
+Code to simiulate Econometric modeling
